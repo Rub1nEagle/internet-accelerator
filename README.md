@@ -178,6 +178,6 @@ educational, research, charity, government). Selling access to end-users,
 integrating into a paid product, or any other commercial use requires a
 separate commercial license from the copyright holder.
 
-Required Notice: Copyright Arcadnick (https://github.com/Arcadnick)
+Required Notice: Copyright RubinEagle (https://github.com/Rub1nEagle)
 
 For commercial licensing, open an issue or contact the author through GitHub.
