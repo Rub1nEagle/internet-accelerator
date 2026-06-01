@@ -1,0 +1,28 @@
+Internet-accelerator — VPN panel with central relay and per-country exit nodes.
+
+Copyright (c) 2026 Arcadnick
+https://github.com/Arcadnick
+
+This software is licensed under the PolyForm Noncommercial License 1.0.0.
+See LICENSE for the full terms.
+
+If you want to use this software for a commercial purpose (selling access
+to end users for money, running a paid VPN service, integrating it into a
+paid product, etc.), please contact the copyright holder for a separate
+commercial license. The noncommercial license does not cover that.
+
+This repository bundles third-party components subject to their own
+licenses, including but not limited to:
+
+  - XRay-core         — Mozilla Public License 2.0
+                        https://github.com/XTLS/Xray-core
+  - FastAPI           — MIT License
+  - SQLAlchemy        — MIT License
+  - Pydantic          — MIT License
+  - ARQ               — MIT License
+  - Caddy             — Apache License 2.0
+  - PostgreSQL        — PostgreSQL License
+  - Redis             — RSAL / SSPL (verify your version's license)
+
+Their license texts ship with the respective packages; nothing in this
+NOTICE overrides them.
